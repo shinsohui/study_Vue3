@@ -7,7 +7,7 @@ const messageDisplay = document.querySelector("#message")
 
 const GAME_TIME = 5;
 
-const API_URL = "https://random-word-api.herokuapp.com/word?number=100";
+const API_URL = "https://random-word-api.herokuapp.com/word?number=1000";
 
 let words = ["banana", "key", "car", "javascript", "sohui"]
 let score = 0
