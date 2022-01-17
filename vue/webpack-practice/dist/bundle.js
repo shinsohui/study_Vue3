@@ -1,0 +1,1 @@
+(()=>{var e;document.body.appendChild(((e=document.createElement("h1")).innerText="hello Webpack!",e))})();
